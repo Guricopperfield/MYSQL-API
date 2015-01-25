@@ -7,4 +7,4 @@ MYSQL C API IN C++. The whole Mysql Server connections pack in the 1 code.
 
 
 
-Code cleared and translated to english by me.
+Code cleared and translated to English by me.
