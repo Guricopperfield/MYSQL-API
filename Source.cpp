@@ -1,4 +1,4 @@
-﻿//http://scripts.ge/topic/952-mysql-c-api-in-c-on-linux/
+﻿
 
 #include <iostream> 
 #include <mysql.h>
