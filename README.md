@@ -23,7 +23,7 @@ Compiler : GCC
     
     
     
-    Library Call : #include <mysql.h> ან #include <sys/mysql.h>
+    Library Call : #include <mysql.h> Or #include <sys/mysql.h>
     
     
     
