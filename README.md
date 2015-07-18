@@ -1,5 +1,5 @@
 # MYSQL-API
-MYSQL C API IN C++. The whole Mysql Server connections pack in the 1 code.
+MYSQL C API for C++. The whole Mysql Server connections pack in the 1 code.
 
 
 
